@@ -1,6 +1,6 @@
 # Dynamiw - Dynamic Island Uygulaması
 
-Dynamiw, Python ve PyQt5 ile geliştirilmiş, Windows işletim sisteminde çalışan bir **Dynamic Island** uygulamasıdır. Apple'ın iPhone'larındaki Dynamic Island özelliğine benzer şekilde, ekranın üst kısmında yuvarlatılmış bir dikdörtgen şeklinde bilgi gösterimi yapar. Saat, mikrofon/kamera göstergesi ve medya kontrolleri gibi işlevsellikler içerir. Ayrıca, kullanıcının ihtiyaçlarına göre özelleştirilebilir.
+Dynamiw, Python ve PyQt5 ile geliştirilmiş, Windows işletim sisteminde çalışan bir **Dynamic Island** uygulamasıdır. Apple'ın cihazlarındaki Dynamic Island özelliğine benzer şekilde, ekranın üst kısmında yuvarlatılmış bir dikdörtgen şeklinde bilgi gösterimi yapar. Saat, mikrofon/kamera göstergesi, dosya panosu özelliği ve medya kontrolleri gibi işlevsellikler içerir.
 
 ## Özellikler
 
@@ -11,10 +11,13 @@ Dynamiw, Python ve PyQt5 ile geliştirilmiş, Windows işletim sisteminde çalı
   Sağ tarafta mikrofon ve sağ tarafta kamera durumu göstergesi bulunur.
   
 - **Medya Kontrolü**:
-  Fare ile üstüne gelindiğinde medya kontrolleri görünür. Medya kontrolünde önceki, sonraki ve oynat/durdur tuşu bulunmaktadır.
+  Fare ile üstüne gelindiğinde medya kontrolleri görünür.Medya kontrolünde; Medyayı oynatan program adı, önceki, sonraki ve oynat/durdur tuşu bulunmaktadır.
   
 - **Sabitleme**:
   Sağ tıklama ile Dynamic Island sabitlenebilir, böylece hareketi engellenir. Tekrar sağ tıklama ile Dynamic Island serbest bırakılır.
+
+- **Sürükleme**:
+  Fare ile Dinamic Island, ekranın herhangi bir noktasına sürüklenebilir.
   
 - **Dosya Taşıma**:
   Dosyalar Dynamic Island'a sürüklenip bırakılabilir, dosyalar çift tıklama ile görünür hale gelir. Dosya adından tutup sürükleme ile dosyanızı istediğiniz yere bırakmak için kullanabilirsiniz.
@@ -29,16 +32,16 @@ Dynamiw, Python ve PyQt5 ile geliştirilmiş, Windows işletim sisteminde çalı
   Dynamiw, cihazınızdaki işlemcinin %1'lik kısmından daha az kullanarak cihazını yormaz.
 
 - **RAM/Bellek**:
-  Dynamiw, cihazınıda 29,1MB bellek kullanarak herhangi bir yorulma, enerji harcama veya gecikmelere yol açmaz.
+  Dynamiw, cihazınıda yaklaşık 30MB bellek kullanarak herhangi bir yorulma, enerji harcama veya gecikmelere yol açmaz.
 
 - **Disk**:
-  Dynamiw, cihazınıda sadece 50Mb disk alanı kaplayarak boş alanınızı etkilemez.
+  Dynamiw, cihazınıda sadece 54Mb disk alanı kaplayarak boş alanınızı etkilemez.
 
 
 ## Kurulum
 
 - **1. Kurulum Programını İndirin**
-  Sayfanın yukarısındaki 'Dynamiw_Installer.exe' dosyasına tıklayın. Ardından açılan sayfa sağ tarafa bulunan üç nokta '...' simgesine tıklayın ve 'Download' seçeneğine tıklayın.
+  Sayfanın yukarısındaki 'Dynamiw_Installer.exe' dosyasına tıklayın. Ardından açılan sayfa 'View RAW' simgesine tıklayın ve indirme işlemi başlayacaktır.
   İndirme işlemi başlayacaktır.
 
 - **2. Kurulum Programını Çalıştırma**
