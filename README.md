@@ -22,6 +22,9 @@ Dynamiw, Python ve PyQt5 ile geliştirilmiş, Windows işletim sisteminde çalı
 - **Dosya Taşıma**:
   Dosyalar Dynamic Island'a sürüklenip bırakılabilir, dosyalar çift tıklama ile görünür hale gelir. Dosya adından tutup sürükleme ile dosyanızı istediğiniz yere bırakmak için kullanabilirsiniz.
 
+-**Bellek Kontrolü**:
+  Dynamiw, cihazdaki belleği kontrol ederek belirli aralıklarda gereksiz dosya ve işlemleri siler.
+
 - **Verimlilik**:
   Dynamiw, Apple ayarında Windows cihazları için en iyi verimlilik ve performansı sunacak şekilde ayarlanmıştır.
 
